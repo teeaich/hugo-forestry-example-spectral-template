@@ -1,0 +1,52 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: Text
+  name: text
+  description: Edit text element
+- type: textarea
+  name: textarea
+  label: Textarea
+  description: Edit textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: number
+  name: number
+  label: Number
+  description: Edit number
+  default: -99
+  hidden: false
+  config:
+    min: 0
+    max: 99
+    step: 1
+- type: boolean
+  name: boolean
+  label: Boolean value
+  description: Edit the boolean value
+  default: true
+- type: select
+  name: select
+  config:
+    source:
+      type: simple
+    options:
+    - left
+    - center
+    - right
+  label: Select value
+  description: Choose a value
+- type: color
+  name: color
+  config:
+    color_format: Hex
+  label: Color
+  description: What color is used
+- type: file
+  name: image
+  label: Image
+  description: Edit the image

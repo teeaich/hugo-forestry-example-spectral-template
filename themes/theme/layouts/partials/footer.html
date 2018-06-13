@@ -1,0 +1,40 @@
+<script src="{{ "" | absLangURL }}js/main.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+    var enableAnalytics = function () {
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-102675831-2');
+    };
+
+    if (document.cookie.match('(^|;) ?_cookienotifier_accepted=([^;]*)(;|$)')) {
+        $('.cookie-notifier').hide();
+        enableAnalytics();
+    }
+
+    if (document.cookie.match('(^|;) ?_cookienotifier_refused=([^;]*)(;|$)')) {
+        $('.cookie-notifier').hide();
+    }
+
+    $('.cookie-btn').click(function(e){
+        e.preventDefault();
+        var expires = new Date();
+        if ($(this).hasClass('cookie-btn__accept')) {
+            expires.setTime(expires.getTime() + (365 * 24 * 60 * 60 * 1000)); /* 365 days */
+            document.cookie = '_cookienotifier_accepted=true' + ';expires=' + expires.toUTCString() + ';path=/';
+            enableAnalytics();
+        } else {
+            expires.setMonth(expires.getMonth() + 1); /* one month */
+            document.cookie = '_cookienotifier_refused=true' + ';expires=' + expires.toUTCString() + ';path=/';
+        }
+        $('.cookie-notifier').hide();
+    });
+
+</script>

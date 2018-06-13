@@ -1,0 +1,8 @@
+baseURL = "https://site.de/"
+languageCode = "de-de"
+theme = "theme"
+title = "Site"
+[Author]
+name = "Author"
+[params]
+logo = "/img/logo_alone.png"

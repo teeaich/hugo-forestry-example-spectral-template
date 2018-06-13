@@ -1,0 +1,29 @@
+<section id="content">
+  <div class="container">
+    {{ if .Params.icon_box_element }}
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row box-container">
+          {{ range $index, $element := .Params.icon_box_element }}
+          <div class="box-gray box aligncenter">
+            <h4 {{ with $element.title_color }}style="color:{{ . }}"{{ end }}>{{ $element.title }}</h4>
+            <div class="icon">
+              <i class="fa {{ $element.icon }} fa-3x"></i>
+            </div>
+            <p>{{ $element.text }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ with .Params.divider }}
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="solidline">
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>

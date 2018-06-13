@@ -1,0 +1,39 @@
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                {{ .Params.text | markdownify }}
+                <div id="sendmessage">{{ .Params.success | markdownify }}</div>
+                <div id="errormessage">{{ .Params.error | markdownify }}</div>
+                <form action="/success" role="form" class="contactForm" name="contact" method="post">
+                    <input type="hidden" name="form-name" value="contact">
+                    <div class="form-group">
+                        <input type="text" name="name" class="form-control" id="name" placeholder="Ihr Name" data-rule="minlen:4"
+                               data-msg="Bitte tragen Sie mindestens 4 Zeichen ein.">
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" name="email" id="email" placeholder="Ihre E-Mail Adresse"
+                               data-rule="email" data-msg="Bitte tragen Sie eine valide E-Mail Adresse ein.">
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Betreff"
+                               data-rule="minlen:8" data-msg="Der Betreff sollte mindestens acht Zeichen haben.">
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+            <textarea class="form-control" name="message" rows="5" data-rule="required"
+                      data-msg="Hier können Sie Ihre Nachricht verfassen."
+                      placeholder="Ihre Nachricht an uns"></textarea>
+                        <div class="validation"></div>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-theme">Nachricht senden</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

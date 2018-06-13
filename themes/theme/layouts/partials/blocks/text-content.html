@@ -1,0 +1,26 @@
+<section class="
+{{ with .Params.background }}
+    {{ if eq "grey" . }} callaction {{ end }}
+{{ end }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="big-cta">
+                    <div class="cta-text"
+                    {{ with .Params.alignment_of_text }}
+                         style="text-align:{{ . }}"
+                    {{ end }}>
+                        {{ with .Params.headline }}
+                        {{ $colouredHeadline := print "<span style='color: " $.Params.color "'>" $.Params.coloured_string "</span>" }}
+                        {{ $result := replace . $.Params.coloured_string $colouredHeadline }}
+                        <h2>{{ safeHTML $result }}</h2>
+                        {{ end }}
+                        {{ with .Params.text }}
+                            {{ . | markdownify }}
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

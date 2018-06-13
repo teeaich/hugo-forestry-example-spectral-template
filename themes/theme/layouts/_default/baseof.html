@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+{{ partial "head" . }}
+<body>
+<div id="wrapper">
+  {{- if ne .Page.Kind "404" -}}
+    {{ partial "nav" . }}
+  {{- end -}}
+  {{block "main" . }}{{ end }}
+  {{ partial "contentFooter" . }}
+</div>
+{{ partial "footer" . }}
+</body>
+</html>
