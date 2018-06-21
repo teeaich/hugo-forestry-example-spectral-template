@@ -34,10 +34,28 @@ fields:
     description: Edit the URL of action button
     config:
       required: true
+- type: field_group
+  name: show_scroll_button
+  label: Activate Scroll Button
+  description: Add scroll button
+  fields:
+  - type: text
+    name: text
+    label: Text Scroll Button
+    description: Edit the text of the scroll button
+    config:
+      required: true
+  - type: text
+    name: scroll_element
+    label: Name of scroll target element
+    description: Edit the unique name of container element
+    config:
+      required: true
 - type: blocks
   name: blocks
   label: Blocks
   template_types:
   - cheatcheet
+  - infobox
 pages:
 - content/_index.md

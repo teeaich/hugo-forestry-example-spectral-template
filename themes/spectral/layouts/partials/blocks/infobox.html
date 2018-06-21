@@ -1,0 +1,12 @@
+<section id="one" class="wrapper {{ .Params.background_style }} special">
+  <div class="inner">
+    <header class="major">
+      {{ with .Params.headline }}
+      <h2>{{ . }}</h2>
+      {{ end }}
+      {{ with .Params.textarea }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </header>
+  </div>
+</section>

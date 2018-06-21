@@ -1,0 +1,30 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: Headline
+  name: headline
+  description: Edit the headline of the box element
+- type: textarea
+  name: textarea
+  label: Textarea
+  description: Edit textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: select
+  name: background_style
+  config:
+    source:
+      type: simple
+    options:
+    - style1
+    - style2
+    - style3
+    - style4
+    - style5
+    - style6
+  label: Background Style
+  description: Select a background style for the infobox

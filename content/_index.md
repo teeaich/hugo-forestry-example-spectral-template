@@ -8,6 +8,9 @@ type = "page"
 [action_button]
 link = "http://www.google.de"
 text = "Hier klicken"
+[show_scroll_button]
+scroll_element = "one"
+text = "Scrolle nach unten"
 [menu.main]
 identifier = "home"
 name = "Homepage"
