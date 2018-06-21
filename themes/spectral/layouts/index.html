@@ -34,12 +34,10 @@
     <a href="#{{ .scroll_element }}" class="more scrolly">{{ .text }}</a>
     {{ end }}
   </section>
+  {{- range .Params.blocks -}}
+    {{- if eq .template "infobox" -}}{{ partial "blocks/infobox" (dict "Params" .) }}{{- end -}}
+  {{- end -}}
   {{ partial "contentFooter" . }}
 </div>
 </body>
-<div class="page-blocks">
-  {{- range .Params.blocks -}}
-  {{- if eq .template "infobox" -}}{{ partial "blocks/infobox" (dict "Params" .) }}{{- end -}}
-  {{- end -}}
-</div>
 {{ end }}
