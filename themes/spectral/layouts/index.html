@@ -1,0 +1,45 @@
+{{ define "main" }}
+<body class="landing is-preload">
+<!-- Page Wrapper -->
+<style>
+  body.landing #page-wrapper {
+    background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ relURL .Params.image }}");
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ relURL .Params.image }}");
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ relURL .Params.image }}");
+    background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("{{ relURL .Params.image }}");
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 0;
+  }
+</style>
+<div id="page-wrapper">
+  {{ partial "nav" . }}
+  <section id="banner">
+    <div class="inner">
+      {{ with .Params.headline }}
+        <h2>{{ . }}</h2>
+      {{ end }}
+      {{ with .Params.text }}
+        {{ . | markdownify }}
+      {{ end }}
+      {{ with .Params.action_button }}
+      <ul class="actions special">
+        <li><a href="{{ . }}" class="button primary">{{ .text }}</a></li>
+      </ul>
+      {{ end }}
+    </div>
+    {{ with .Params.show_scroll_button }}
+    <a href="#one" class="more scrolly">Learn More</a>
+    {{ end }}
+  </section>
+  {{ partial "contentFooter" . }}
+</div>
+</body>
+<div class="page-blocks">
+  {{- range .Params.blocks -}}
+  {{- if eq .template "cheatsheet" -}}{{ partial "blocks/cheatsheet" (dict "Params" .) }}{{- end -}}
+  {{- end -}}
+</div>
+{{ end }}

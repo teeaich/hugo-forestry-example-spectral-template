@@ -1,7 +1,0 @@
-{{ define "main" }}
-<div class="page-blocks">
-    {{- range .Params.blocks -}}
-    {{- if eq .template "cheatsheet" -}}{{ partial "blocks/cheatsheet" (dict "Params" .) }}{{- end -}}
-    {{- end -}}
-</div>
-{{ end }}

@@ -1,0 +1,26 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: image
+  label: Image
+  description: Edit the background image of banner
+- type: text
+  name: headline
+  label: Special Headline (optional)
+- type: textarea
+  name: textarea
+  label: Textarea under the optional special headline
+  description: Edit textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: blocks
+  name: blocks
+  label: Blocks
+  template_types:
+  - cheatcheet
+pages:
+- site.md

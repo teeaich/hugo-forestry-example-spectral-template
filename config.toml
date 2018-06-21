@@ -1,6 +1,6 @@
 baseURL = "https://site.de/"
 languageCode = "de-de"
-theme = "theme"
+theme = "spectral"
 title = "Site"
 [Author]
 name = "Author"
