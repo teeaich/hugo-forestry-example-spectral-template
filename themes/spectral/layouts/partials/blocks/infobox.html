@@ -5,7 +5,7 @@
       <h2>{{ . }}</h2>
       {{ end }}
       {{ with .Params.textarea }}
-      <p>{{ . }}</p>
+      <p>{{ . | markdownify }}</p>
       {{ end }}
     </header>
   </div>
