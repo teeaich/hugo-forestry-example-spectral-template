@@ -39,7 +39,7 @@
 </body>
 <div class="page-blocks">
   {{- range .Params.blocks -}}
-  {{- if eq .template "cheatsheet" -}}{{ partial "blocks/cheatsheet" (dict "Params" .) }}{{- end -}}
+  {{- if eq .template "infobox" -}}{{ partial "blocks/infobox" (dict "Params" .) }}{{- end -}}
   {{- end -}}
 </div>
 {{ end }}
