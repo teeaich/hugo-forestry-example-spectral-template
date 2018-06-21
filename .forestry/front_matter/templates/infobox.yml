@@ -28,3 +28,4 @@ fields:
     - style6
   label: Background Style
   description: Select a background style for the infobox
+  default: style1
