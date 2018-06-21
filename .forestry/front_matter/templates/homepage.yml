@@ -17,6 +17,23 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: field_group
+  name: action_button
+  label: Action Button
+  description: Add action button
+  fields:
+  - type: text
+    name: text
+    label: Text Action Button
+    description: Edit the text of action button
+    config:
+      required: true
+  - type: text
+    name: link
+    label: Link Action Button
+    description: Edit the URL of action button
+    config:
+      required: true
 - type: blocks
   name: blocks
   label: Blocks
