@@ -39,3 +39,5 @@ fields:
   label: Blocks
   template_types:
   - cheatcheet
+pages:
+- content/_index.md
