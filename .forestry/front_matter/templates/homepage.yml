@@ -57,5 +57,7 @@ fields:
   template_types:
   - cheatcheet
   - infobox
+  - card-container
+  - spotlight-container
 pages:
 - content/_index.md

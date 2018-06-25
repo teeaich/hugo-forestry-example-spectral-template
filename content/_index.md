@@ -20,5 +20,26 @@ background_style = "style1"
 headline = "Hier ist eine Box für prägnante Texte"
 template = "infobox"
 textarea = "Hier steht der Text der noch weitere Information liefert"
-
+[[blocks]]
+background_style = "style3"
+template = "spotlight-container"
+[[blocks.spotlight_elements]]
+title = "Titel"
+text = "Haupttext"
+[[blocks.spotlight_elements]]
+title = "Titel"
+text = "Haupttext"
+[[blocks]]
+background_style = "style2"
+headline = "Hier kommt ein card container"
+template = "card-container"
+textarea = "Hier ist ein weiterer text unter dem card container"
+[[blocks.card_elements]]
+icon = "fa-address-book"
+title = "Titel eines elements"
+text = "Haupttext"
+[[blocks.card_elements]]
+icon = "fa-address-book"
+title = "Titel eines elements"
+text = "Haupttext"
 +++

@@ -50,3 +50,20 @@ fields:
   name: image
   label: Image
   description: Edit the image
+- type: field_group_list
+  label: Image box element
+  name: image_box_element
+  description: Add image box element
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: Edit the optional title
+  - type: text
+    name: text
+    label: Text
+    description: Edit the main text of the image box element
+  - type: file
+    name: image
+    label: Image
+    description: Edit the required image

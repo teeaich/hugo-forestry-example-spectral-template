@@ -1,0 +1,52 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: Headline
+  name: headline
+  description: Edit the headline of the card container
+- type: textarea
+  name: textarea
+  label: Textarea
+  description: Edit textarea under the headline
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: select
+  name: background_style
+  config:
+    source:
+      type: simple
+    options:
+    - style1
+    - style2
+    - style3
+    - style4
+    - style5
+    - style6
+  label: Background Style
+  description: Select a background style for the card container
+  default: style1
+- type: field_group_list
+  label: Card elements
+  name: card_elements
+  description: Add card element
+  fields:
+  - type: text
+    name: icon
+    label: Icon
+    description: Edit the optional icon element for the card element: See examples at https://fontawesome.com/v4.7.0/icons/
+  - type: text
+    name: title
+    label: Title
+    description: Edit the optional title
+  - type: textarea
+    name: text
+    label: Text
+    description: Edit textarea under the headline
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown

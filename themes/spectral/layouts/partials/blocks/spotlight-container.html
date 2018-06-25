@@ -1,0 +1,21 @@
+<section id="two" class="wrapper alt {{ .Params.background_style }}">
+  {{ if .Params.spotlight_elements }}
+  {{ range .Params.spotlight_elements }}
+  <section class="spotlight">
+    {{ with .image }}
+      <div class="image">
+        <img src="{{ relURL . }}" alt=""/>
+      </div>
+    {{ end }}
+    <div class="content">
+      {{ with .title }}
+        <h2>{{ . }}</h2>
+      {{ end }}
+      {{ with .text }}
+        <p>{{ . | markdownify  }}</p>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+</section>

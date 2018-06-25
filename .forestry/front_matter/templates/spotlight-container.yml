@@ -1,0 +1,40 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: select
+  name: background_style
+  config:
+    source:
+      type: simple
+    options:
+    - style1
+    - style2
+    - style3
+    - style4
+    - style5
+    - style6
+  label: Background Style
+  description: Select a background style for the card container
+  default: style1
+- type: field_group_list
+  label: Spotlight elements
+  name: spotlight_elements
+  description: Add spotlight element
+  fields:
+  - type: file
+    name: image
+    label: Image
+    description: Edit the image of spotlight
+  - type: text
+    name: title
+    label: Title
+    description: Edit the optional title
+  - type: textarea
+    name: text
+    label: Text
+    description: Edit textarea under the headline
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
