@@ -17,9 +17,9 @@ scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
 background_style = "style1"
-headline = "Hier ist eine Box für prägnante Texte"
+headline = "Keine monatlichen Kosten für Hosting"
 template = "infobox"
-textarea = "Hier steht der Text der noch weitere Information liefert"
+textarea = "Nutzen Sie die kostenfreien Möglichkeiten Ihre Website statisch auf den zuverlässigsten und größten Anbietern zu speichern und zu betreiben"
 [[blocks]]
 background_style = "style3"
 template = "spotlight-container"
