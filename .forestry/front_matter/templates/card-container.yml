@@ -37,7 +37,7 @@ fields:
   - type: text
     name: icon
     label: Icon
-    description: Edit the optional icon element for the card element: See examples at
+    description: Edit the optional icon element for the card element See examples at
   - type: text
     name: title
     label: Title
