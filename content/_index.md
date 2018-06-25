@@ -5,8 +5,8 @@ textarea = "Mit minimalen Aufwand jedes Website Template in die eigene Präsenz 
 title = "Homepage"
 type = "page"
 [action_button]
-link = "http://www.google.de"
-text = "Hier klicken"
+link = "/admin"
+text = "Ändere diese Website"
 [menu.main]
 identifier = "home"
 name = "Homepage"
@@ -24,11 +24,11 @@ textarea = "Hier steht der Text der noch weitere Information liefert"
 background_style = "style3"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
-title = "Titel"
 text = "Haupttext"
+title = "Titel"
 [[blocks.spotlight_elements]]
-title = "Titel"
 text = "Haupttext"
+title = "Titel"
 [[blocks]]
 background_style = "style2"
 headline = "Hier kommt ein card container"
@@ -36,10 +36,11 @@ template = "card-container"
 textarea = "Hier ist ein weiterer text unter dem card container"
 [[blocks.card_elements]]
 icon = "fa-address-book"
-title = "Titel eines elements"
 text = "Haupttext"
+title = "Titel eines elements"
 [[blocks.card_elements]]
 icon = "fa-address-book"
-title = "Titel eines elements"
 text = "Haupttext"
+title = "Titel eines elements"
+
 +++
