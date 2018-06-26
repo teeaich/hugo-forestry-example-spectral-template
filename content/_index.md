@@ -21,6 +21,16 @@ headline = "Keine monatlichen Kosten für Hosting"
 template = "infobox"
 textarea = "Nutzen Sie die kostenfreien Möglichkeiten Ihre Website statisch auf den zuverlässigsten und größten Anbietern zu speichern und zu betreiben"
 [[blocks]]
+background_style = "style3"
+template = "spotlight-container"
+[[blocks.spotlight_elements]]
+image = "/uploads/2018/06/26/github.jpg"
+text = "Durch Nutzung des weltweit größten Anbieters von Softwareprojekten auf Open Source Basis profitieren Sie von einer unschlagbaren Zuverlässigkeit bei der Speicherung Ihrer Website für die Ewigkeit. "
+title = "Speicherung Ihrer Website"
+[[blocks.spotlight_elements]]
+text = "Haupttext"
+title = "Titel"
+[[blocks]]
 background_style = "style2"
 headline = "Technologien"
 template = "card-container"
@@ -33,14 +43,5 @@ title = "Titel eines elements"
 icon = "fa-address-book"
 text = "Haupttext"
 title = "Titel eines elements"
-[[blocks]]
-background_style = "style3"
-template = "spotlight-container"
-[[blocks.spotlight_elements]]
-text = "Haupttext"
-title = "Titel"
-[[blocks.spotlight_elements]]
-text = "Haupttext"
-title = "Titel"
 
 +++
