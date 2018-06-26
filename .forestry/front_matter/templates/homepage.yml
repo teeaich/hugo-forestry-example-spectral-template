@@ -33,7 +33,8 @@ fields:
     label: Verlinkung des Buttons
     description: Definieren Sie die Zielseiten beim Klick auf den Button
     config:
-      required: true- type: field_group
+      required: true
+- type: field_group
   name: show_scroll_button
   label: Scroll Button aktivieren
   description: Fügen Sie einen optionalen Scroll Button hinzu
