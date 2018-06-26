@@ -24,11 +24,11 @@ textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell 
 background_style = "style3"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
-image = "/uploads/2018/06/26/bitbucket.png"
+image = "/uploads/2018/06/26/bitbucket-1"
 text = "Nutzen Sie die Erfahrung des großen Enterprise Softwareanbieters Atlassian um Ihre Website zuverlässig zu speichern.  \n\nUnd das kostenfrei.\n\n[Atlassian Bitbucket ](https://bitbucket.org/product/pricing?tab=cloud)"
 title = "Ihre Website - immer verfügbar"
 [[blocks.spotlight_elements]]
-image = "/uploads/2018/06/26/pic01.jpg"
+image = "/uploads/2018/06/26/forestry.png"
 text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. Der etablierte Anbieter forestry.io unterstützt Sie in Zusammenarbeit mit mir zu entscheiden wo und wie Ihre Website nach Ihren Wünschen bearbeitbar wird.\n\nUnd das kostenfrei für bis zu 3 Editoren.\n\n[Forestry.io](https://forestry.io/pricing/)"
 title = "Ihre Website - jederzeit einfach pflegbar"
 [[blocks]]
