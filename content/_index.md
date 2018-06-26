@@ -28,8 +28,9 @@ image = "/uploads/2018/06/26/bitbucket.png"
 text = "Nutzen Sie die Erfahrung des großen Enterprise Softwareanbieters Atlassian um Ihre Website zuverlässig zu speichern.  \n\nUnd das kostenfrei.\n\n[Atlassian Bitbucket ](https://bitbucket.org/product/pricing?tab=cloud)"
 title = "Speicherung Ihrer Website"
 [[blocks.spotlight_elements]]
-text = "Haupttext"
-title = "Titel"
+image = "/uploads/2018/06/26/forestry.jpg"
+text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. Der etablierte Anbieter forestry.io unterstützt Sie in Zusammenarbeit mit mir zu entscheiden wo und wie Ihre Website nach Ihren Wünschen bearbeitbar wird.\n\nUnd das kostenfrei für bis zu 3 Editoren.\n\n[Forestry.io](https://forestry.io/pricing/)"
+title = "Editieren Sie Ihre Website"
 [[blocks]]
 background_style = "style2"
 headline = "Technologien"
