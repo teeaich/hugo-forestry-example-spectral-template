@@ -16,7 +16,7 @@ weight = 1
 scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
-background_style = "style1"
+background_style = "style2"
 headline = "Wordpress war gestern"
 template = "infobox"
 textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
