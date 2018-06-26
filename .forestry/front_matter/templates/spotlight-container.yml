@@ -14,26 +14,26 @@ fields:
     - style4
     - style5
     - style6
-  label: Background Style
-  description: Select a background style for the card container
+  label: Hintergrundstil bzw. Farbe
+  description: Entscheiden Sie über die Art des Hintergrunds
   default: style1
 - type: field_group_list
-  label: Spotlight elements
+  label: Spotlightelemente
   name: spotlight_elements
-  description: Add spotlight element
+  description: Fügen Sie Spotlight Elemente hinzu
   fields:
   - type: file
     name: image
-    label: Image
-    description: Edit the image of spotlight
+    label: Bild
+    description: Bearbeiten Sie das Bild
   - type: text
     name: title
-    label: Title
-    description: Edit the optional title
+    label: Titel
+    description: Bearbeiten Sie den optionalen Titel
   - type: textarea
     name: text
-    label: Text
-    description: Edit textarea under the headline
+    label: Textbereich
+    description: Bearbeiten Sie den Text unter den Titel
     config:
       wysiwyg: true
       schema:

@@ -3,13 +3,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
-  label: Headline
+  label: Überschrift
   name: headline
-  description: Edit the headline of the card container
+  description: Bearbeiten Sie die Überschrift des card-containers
 - type: textarea
   name: textarea
-  label: Textarea
-  description: Edit textarea under the headline
+  label: Textbereich
+  description: Bearbeiten Sie den Text unter der Überschrift
   config:
     wysiwyg: true
     schema:
@@ -26,27 +26,27 @@ fields:
     - style4
     - style5
     - style6
-  label: Background Style
-  description: Select a background style for the card container
+  label: Hintergrundstil bzw. Farbe
+  description: Entscheiden Sie über die Art des Hintergrunds
   default: style1
 - type: field_group_list
-  label: Card elements
+  label: Kartenelemente
   name: card_elements
-  description: Add card element
+  description: Fügen Sie ein Kartenelement hinzu
   fields:
   - type: text
     name: icon
     label: Icon
-    description: Edit the optional icon element for the card element See examples
-      at https://fontawesome.com/v4.7.0/icons/
+    description: Bearbeiten Sie das Icon indem Sie sich für einen Namen entscheiden
+      siehe https://fontawesome.com/v4.7.0/icons/
   - type: text
     name: title
-    label: Title
-    description: Edit the optional title
+    label: Titel
+    description: Bearbeiten Sie den optionalen Titel
   - type: textarea
     name: text
-    label: Text
-    description: Edit textarea under the headline
+    label: Textbereich
+    description: Bearbeiten Sie den Text unter dem Titel
     config:
       wysiwyg: true
       schema:

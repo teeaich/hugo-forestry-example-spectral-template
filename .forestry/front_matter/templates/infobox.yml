@@ -3,13 +3,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
-  label: Headline
+  label: Überschrift
   name: headline
-  description: Edit the headline of the box element
+  description: Bearbeiten Sie die Überschrift einer infobox
 - type: textarea
   name: textarea
-  label: Textarea
-  description: Edit textarea
+  label: Textbereich
+  description: Bearbeiten sie den optionalen Text unter der Überschrift
   config:
     wysiwyg: true
     schema:
@@ -26,6 +26,23 @@ fields:
     - style4
     - style5
     - style6
-  label: Background Style
-  description: Select a background style for the infobox
+  label: Hintergrundstil bzw. Farbe
+  description: Entscheiden Sie über die Art des Hintergrunds
   default: style1
+- type: field_group
+  name: action_button
+  label: Button
+  description: Optionalen Button hinzufügen
+  fields:
+  - type: text
+    name: text
+    label: Text des Buttons
+    description: Wählen Sie einen Text für den button
+    config:
+      required: true
+  - type: text
+    name: link
+    label: Verlinkung des Buttons
+    description: Definieren Sie die Zielseiten beim Klick auf den Button
+    config:
+      required: true
