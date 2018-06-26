@@ -31,6 +31,9 @@ title = "Ihre Website - immer verfügbar"
 image = "/uploads/2018/06/26/forestry.png"
 text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. Der etablierte Anbieter forestry.io unterstützt Sie in Zusammenarbeit mit mir zu entscheiden wo und wie Ihre Website nach Ihren Wünschen bearbeitbar wird.\n\nUnd das kostenfrei für bis zu 3 Editoren.\n\n[Forestry.io](https://forestry.io/pricing/)"
 title = "Ihre Website - jederzeit einfach pflegbar"
+[[blocks.spotlight_elements]]
+text = "Genießen Sie die Vorteile einer statisch gehosteten Website die keinerlei Sicherheitsrisiken hat. Nie wieder Updates einpflegen oder eine Wordpress Installation pflegen. Und mit Netlify als Anbieter profitieren Sie von einem der schnellsten und zuverlässigsten Hostern für statische Webseiten dank Amazon Web Services.\n\nUnd das kostenfrei.\n\n[Netlify](https://www.netlify.com/pricing/)"
+title = "Ihre Website - immer schnell und sicher abrufbereit"
 [[blocks]]
 background_style = "style2"
 headline = "Technologien"
