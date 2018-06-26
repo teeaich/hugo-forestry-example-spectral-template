@@ -7,9 +7,9 @@
       {{ with .Params.textarea }}
       <p>{{ . | markdownify }}</p>
       {{ end }}
-      {{ with .Params.action_button }}
+      {{ if and (.Params.action_button.link) (.Params.action_button.text) }}
       <ul class="actions special">
-        <li><a href="{{ .link }}" class="button primary">{{ .text }}</a></li>
+        <li><a href="{{ .Params.action_button.link }}" class="button primary">{{ .Params.action_button.text }}</a></li>
       </ul>
       {{ end }}
     </header>
