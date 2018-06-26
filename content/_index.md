@@ -37,9 +37,9 @@ text = "Genießen Sie die Vorteile einer statisch gehosteten Website die keinerl
 title = "Ihre Website - immer schnell und sicher abrufbereit"
 [[blocks]]
 background_style = "style2"
-headline = "Technologien"
+headline = "Ihre Vorteile auf einen Blick"
 template = "card-container"
-textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben"
+textarea = ""
 [[blocks.card_elements]]
 icon = "fa-address-book"
 text = "Haupttext"
