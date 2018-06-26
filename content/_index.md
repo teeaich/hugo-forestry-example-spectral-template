@@ -17,14 +17,9 @@ scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
 background_style = "style2"
-headline = "Wordpress war gestern"
-template = "infobox"
-textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
-[[blocks]]
-background_style = "style2"
-headline = "Ihre Vorteile auf einen Blick"
+headline = "Der einfach Weg zu einer statischen Webseite"
 template = "card-container"
-textarea = ""
+textarea = "Der neue Weg Ihre Webpräsenz im neuen Glanz zu zeigen. \n\n* Unendlich viele Auswahl an Templates\n*  passgenaue Administration auf Sie zugeschnitten\n* auf Wunsch individueller Feinschliff im Design \n\nEin Blick auf die Vorteile einer statischen Webseite"
 [[blocks.card_elements]]
 icon = "fa-address-book"
 text = "Haupttext"
@@ -41,6 +36,11 @@ textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielw
 [blocks.action_button]
 link = "/admin"
 text = "Ändern Sie diese Webseite"
+[[blocks]]
+background_style = "style2"
+headline = "Wordpress war gestern"
+template = "infobox"
+textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
 [[blocks]]
 background_style = "style3"
 template = "spotlight-container"
