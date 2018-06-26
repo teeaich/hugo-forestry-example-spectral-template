@@ -17,9 +17,9 @@ scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
 background_style = "style1"
-headline = "Keine monatlichen Kosten für Hosting"
+headline = "Wordpress war gestern"
 template = "infobox"
-textarea = "Nutzen Sie die kostenfreien Möglichkeiten Ihre Website statisch auf den zuverlässigsten und größten Anbietern zu speichern und zu betreiben"
+textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
 [[blocks]]
 background_style = "style3"
 template = "spotlight-container"
