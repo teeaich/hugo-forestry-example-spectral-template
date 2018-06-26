@@ -44,7 +44,9 @@ fields:
   - type: text
     name: scroll_element
     label: Ziel des Scroll Button
-    description: Entscheiden Sie zu welcher Sektion gescrollt werden soll wenn der Button geklickt wird (sie definieren in jedem 'Block' selbst einen einmaligen Namen)
+    description: Entscheiden Sie zu welcher Sektion gescrollt werden soll wenn der
+      Button geklickt wird (sie definieren in jedem 'Block' selbst einen einmaligen
+      Namen)
     config:
       required: true
 - type: blocks

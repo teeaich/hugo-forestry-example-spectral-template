@@ -5,8 +5,8 @@ textarea = "Mit minimalen Aufwand jedes Website Template in die eigene Präsenz 
 title = "Homepage"
 type = "page"
 [action_button]
-link = "/admin"
-text = "Ändere diese Website"
+link = ""
+text = ""
 [menu.main]
 identifier = "home"
 name = "Homepage"
