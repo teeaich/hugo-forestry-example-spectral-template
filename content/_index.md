@@ -40,6 +40,9 @@ background_style = "style1"
 headline = "Schnuppern Sie kurz rein"
 template = "infobox"
 textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu verändern und einen ersten Eindruck zu gewinnen."
+[blocks.action_button]
+link = "/admin"
+text = "Ändern Sie diese Webseite"
 [[blocks]]
 background_style = "style2"
 headline = "Ihre Vorteile auf einen Blick"
