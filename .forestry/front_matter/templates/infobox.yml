@@ -38,11 +38,7 @@ fields:
     name: text
     label: Text des Buttons
     description: Wählen Sie einen Text für den button
-    config:
-      required: true
   - type: text
     name: link
     label: Verlinkung des Buttons
     description: Definieren Sie die Zielseiten beim Klick auf den Button
-    config:
-      required: true
