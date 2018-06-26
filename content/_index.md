@@ -21,6 +21,19 @@ headline = "Keine monatlichen Kosten für Hosting"
 template = "infobox"
 textarea = "Nutzen Sie die kostenfreien Möglichkeiten Ihre Website statisch auf den zuverlässigsten und größten Anbietern zu speichern und zu betreiben"
 [[blocks]]
+background_style = "style2"
+headline = "Technologien"
+template = "card-container"
+textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben"
+[[blocks.card_elements]]
+icon = "fa-address-book"
+text = "Haupttext"
+title = "Titel eines elements"
+[[blocks.card_elements]]
+icon = "fa-address-book"
+text = "Haupttext"
+title = "Titel eines elements"
+[[blocks]]
 background_style = "style3"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
@@ -29,18 +42,5 @@ title = "Titel"
 [[blocks.spotlight_elements]]
 text = "Haupttext"
 title = "Titel"
-[[blocks]]
-background_style = "style2"
-headline = "Hier kommt ein card container"
-template = "card-container"
-textarea = "Hier ist ein weiterer text unter dem card container"
-[[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
-[[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
 
 +++
