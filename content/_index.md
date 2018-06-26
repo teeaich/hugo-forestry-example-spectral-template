@@ -25,7 +25,7 @@ background_style = "style3"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
 image = "/uploads/2018/06/26/bitbucket.png"
-text = "Nutzen Sie die Erfahrung des großen Enterprise Softwareanbieters Atlassian um Ihre Website zuverlässig zu speichern."
+text = "Nutzen Sie die Erfahrung des großen Enterprise Softwareanbieters Atlassian um Ihre Website zuverlässig zu speichern.  Und das absolut kostenfrei.\n\n[Atlassian Bitbucket ](https://bitbucket.org/product/pricing?tab=cloud)"
 title = "Speicherung Ihrer Website"
 [[blocks.spotlight_elements]]
 text = "Haupttext"
