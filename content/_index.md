@@ -21,6 +21,27 @@ headline = "Wordpress war gestern"
 template = "infobox"
 textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
 [[blocks]]
+background_style = "style2"
+headline = "Ihre Vorteile auf einen Blick"
+template = "card-container"
+textarea = ""
+[[blocks.card_elements]]
+icon = "fa-address-book"
+text = "Haupttext"
+title = "Titel eines elements"
+[[blocks.card_elements]]
+icon = "fa-address-book"
+text = "Haupttext"
+title = "Titel eines elements"
+[[blocks]]
+background_style = "style1"
+headline = "Schnuppern Sie kurz rein"
+template = "infobox"
+textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu verändern und einen ersten Eindruck zu gewinnen."
+[blocks.action_button]
+link = "/admin"
+text = "Ändern Sie diese Webseite"
+[[blocks]]
 background_style = "style3"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
@@ -35,26 +56,5 @@ title = "Ihre Website - jederzeit einfach pflegbar"
 image = "/uploads/2018/06/26/netlify.png"
 text = "Genießen Sie die Vorteile einer statisch gehosteten Website die keinerlei Sicherheitsrisiken hat. Nie wieder Updates einpflegen oder eine Wordpress Installation pflegen. Und mit Netlify als Anbieter profitieren Sie von einem der schnellsten und zuverlässigsten Hostern für statische Webseiten dank Amazon Web Services.\n\nUnd das kostenfrei.\n\n[Netlify](https://www.netlify.com/pricing/)"
 title = "Ihre Website - immer schnell und sicher abrufbereit"
-[[blocks]]
-background_style = "style1"
-headline = "Schnuppern Sie kurz rein"
-template = "infobox"
-textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu verändern und einen ersten Eindruck zu gewinnen."
-[blocks.action_button]
-link = "/admin"
-text = "Ändern Sie diese Webseite"
-[[blocks]]
-background_style = "style2"
-headline = "Ihre Vorteile auf einen Blick"
-template = "card-container"
-textarea = ""
-[[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
-[[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
 
 +++
