@@ -21,9 +21,9 @@ headline = "Der einfach Weg zu einer statischen Webseite"
 template = "card-container"
 textarea = "Der neue Weg Ihre Webpräsenz im neuen Glanz zu zeigen: \n\nUnendlich viele Auswahl an Templates\n\npassgenaue Administration auf Sie zugeschnitten\n\nauf Wunsch individueller Feinschliff im Design \n\n"
 [[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
+icon = "fa-globe"
+text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage. \n\nIch wandle Ihr Wunschtemplate um und sorge dafür das Sie mit kostenfreien Tools dieses Template bearbeiten können.\n\nUnd das ohne komplizierte Content Management Software oder einer Wordpress Installation."
+title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-address-book"
 text = "Haupttext"
