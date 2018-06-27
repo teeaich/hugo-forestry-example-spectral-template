@@ -1,6 +1,6 @@
 +++
 headline = "Ihre Website"
-image = "/uploads/2018/06/21/action-aktion-balance-305250.jpg"
+image = "/uploads/2018/06/27/rsz_wireframing-and-designing-website-layout-picjumbo-com.jpg"
 textarea = "Mit minimalen Aufwand jedes Website Template in die eigene Präsenz wandeln"
 title = "Homepage"
 type = "page"
