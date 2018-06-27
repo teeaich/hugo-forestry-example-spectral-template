@@ -26,7 +26,7 @@ text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-search"
-text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Grundgerüst für Ihre Webpräsenz zu finden.\n\n* [https://templated.co/](https://templated.co/ \"https://templated.co/\")\n* [https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n* [https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n* [https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
+text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Grundgerüst für Ihre Webpräsenz zu finden.\n\n[https://templated.co/](https://templated.co/ \"https://templated.co/\")\n\n[https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n\n[https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n\n[https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
 title = "Finden Sie Ihr Wunschtemplate"
 [[blocks]]
 background_style = "style1"
