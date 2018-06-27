@@ -3,7 +3,7 @@
         {{ if or (isset .Params "headline") (isset .Params "textarea")}}
         <header class="major">
             <h2>{{ .Params.headline }}</h2>
-            <p>{{ .Params.textarea }}</p>
+            <p>{{ .Params.textarea | markdownify }}</p>
         </header>
         {{ end }}
         <ul class="features">

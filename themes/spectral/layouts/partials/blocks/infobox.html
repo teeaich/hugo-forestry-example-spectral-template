@@ -5,7 +5,7 @@
       <h2>{{ . }}</h2>
       {{ end }}
       {{ with .Params.textarea }}
-      <p>{{ . | markdownify }}</p>
+      <p>{{ . | markdownify  }}</p>
       {{ end }}
       {{ if and (.Params.action_button.link) (.Params.action_button.text) }}
       <ul class="actions special">

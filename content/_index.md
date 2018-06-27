@@ -19,7 +19,7 @@ text = "Scrolle nach unten"
 background_style = "style2"
 headline = "Der einfach Weg zu einer statischen Webseite"
 template = "card-container"
-textarea = "Der neue Weg Ihre Webpräsenz im neuen Glanz zu zeigen. \n\n* Unendlich viele Auswahl an Templates\n*  passgenaue Administration auf Sie zugeschnitten\n* auf Wunsch individueller Feinschliff im Design \n\nEin Blick auf die Vorteile einer statischen Webseite"
+textarea = "Der neue Weg Ihre Webpräsenz im neuen Glanz zu zeigen: \n\nUnendlich viele Auswahl an Templates\n\npassgenaue Administration auf Sie zugeschnitten\n\nauf Wunsch individueller Feinschliff im Design \n\n"
 [[blocks.card_elements]]
 icon = "fa-address-book"
 text = "Haupttext"
@@ -54,7 +54,7 @@ text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. De
 title = "Ihre Website - jederzeit einfach pflegbar"
 [[blocks.spotlight_elements]]
 image = "/uploads/2018/06/26/netlify.png"
-text = "Genießen Sie die Vorteile einer statisch gehosteten Website die keinerlei Sicherheitsrisiken hat. Nie wieder Updates einpflegen oder eine Wordpress Installation pflegen. Und mit Netlify als Anbieter profitieren Sie von einem der schnellsten und zuverlässigsten Hostern für statische Webseiten dank Amazon Web Services.\n\nUnd das kostenfrei.\n\n[Netlify](https://www.netlify.com/pricing/)"
-title = "Ihre Website - immer schnell und sicher abrufbereit"
+text = "Eine statisch gehosteten Website hat keinerlei Sicherheitsrisiken. Nie wieder Updates einpflegen. Und mit Netlify als Anbieter profitieren Sie von einem der schnellsten und zuverlässigsten Hostern für statische Webseiten dank Amazon Web Services.\n\nUnd das kostenfrei.\n\n[Netlify](https://www.netlify.com/pricing/)"
+title = "Ihre Website - immer schnell"
 
 +++
