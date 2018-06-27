@@ -35,14 +35,14 @@ fields:
   description: Fügen Sie ein Kartenelement hinzu
   fields:
   - type: text
+    name: title
+    label: Titel
+    description: Bearbeiten Sie den optionalen Titel
+  - type: text
     name: icon
     label: Icon
     description: Bearbeiten Sie das Icon indem Sie sich für einen Namen entscheiden
       siehe https://fontawesome.com/v4.7.0/icons/
-  - type: text
-    name: title
-    label: Titel
-    description: Bearbeiten Sie den optionalen Titel
   - type: textarea
     name: text
     label: Textbereich
