@@ -32,6 +32,10 @@ title = "Finden Sie Ihr Wunschtemplate"
 icon = "fa-smile-o"
 text = "Statisch gehostete Webseiten werden nach dem Editieren von einem Generator erzeugt und auf einem Server wie Dateien auf einer Festplatte im Internet abgelegt. \n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besuche blitzschnell geladen und brauchen keinerlei Serverupdates um sicher vor Angreifern geschützt zu sein."
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
+[[blocks.card_elements]]
+icon = "fa-plus-circle"
+text = "Ob Kontaktformular, Anpassungen im Design und den Unternehmensfarben oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
+title = "Ihre Webseite kann noch mehr"
 [[blocks]]
 background_style = "style1"
 headline = "Schnuppern Sie kurz rein"
