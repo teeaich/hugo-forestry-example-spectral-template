@@ -19,22 +19,22 @@ text = "Scrolle nach unten"
 background_style = "style2"
 headline = "Der einfach Weg zu einer statischen Webseite"
 template = "card-container"
-textarea = "Der neue Weg Ihre Webpräsenz im neuen Glanz zu zeigen:\n\nUnendlich viele Auswahl an Templates\n\nPassgenaue Administration auf Sie zugeschnitten\n\nAuf Wunsch individueller Feinschliff im Design"
+textarea = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen:\n\nWebseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n\nBearbeiten Sie Ihre Webseite wie Sie es wünschen\n\nSorgenfrei und kostenfrei Ihre Webseite betreiben"
 [[blocks.card_elements]]
 icon = "fa-globe"
-text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nIch wandle Ihr Wunschtemplate um und sorge dafür das Sie mit kostenfreien Tools dieses Template bearbeiten können."
+text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit kostenfreien und einfachen Tools bearbeiten können."
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-search"
-text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Grundgerüst für Ihre Webpräsenz zu finden.\n\n[https://templated.co/](https://templated.co/ \"https://templated.co/\")\n\n[https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n\n[https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n\n[https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
+text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Template für Ihre Webpräsenz zu finden.\n\n[https://templated.co/](https://templated.co/ \"https://templated.co/\")\n\n[https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n\n[https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n\n[https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
 title = "Finden Sie Ihr Wunschtemplate"
 [[blocks.card_elements]]
 icon = "fa-smile-o"
-text = "Statisch gehostete Webseiten werden nach dem Editieren von einem Generator erzeugt und auf einem Server wie Dateien auf einer Festplatte im Internet abgelegt.\n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besucher blitzschnell geladen und brauchen keinerlei Serverupdates um vor Angreifern geschützt zu sein."
+text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Generator erzeugt und auf einem Internetserver wie Dateien auf einer Festplatte abgelegt.\n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besucher blitzschnell geladen und brauchen keinerlei Serverupdates um vor Angreifern geschützt zu sein."
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks.card_elements]]
 icon = "fa-plus-circle"
-text = "Ob Kontaktformular, Anpassungen im Design und den Unternehmensfarben oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
+text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
 title = "Ihre Webseite kann noch mehr"
 [[blocks]]
 background_style = "style1"
