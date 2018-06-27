@@ -28,6 +28,10 @@ title = "Riesige Auswahl an fertigen Templates"
 icon = "fa-search"
 text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Grundgerüst für Ihre Webpräsenz zu finden.\n\n[https://templated.co/](https://templated.co/ \"https://templated.co/\")\n\n[https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n\n[https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n\n[https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
 title = "Finden Sie Ihr Wunschtemplate"
+[[blocks.card_elements]]
+icon = "fa-smile-o"
+text = "Statisch gehostete Webseiten werden nach dem Editieren von einem Generator erzeugt und auf einem Server wie Dateien auf einem Netzwerklaufwerk abgelegt. \n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besuche blitzschnell geladen und brauchen keinerlei Serverupdates um sicher vor Angreifern geschützt zu sein."
+title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks]]
 background_style = "style1"
 headline = "Schnuppern Sie kurz rein"
