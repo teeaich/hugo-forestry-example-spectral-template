@@ -25,9 +25,9 @@ icon = "fa-globe"
 text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage. \n\nIch wandle Ihr Wunschtemplate um und sorge dafür das Sie mit kostenfreien Tools dieses Template bearbeiten können.\n\nUnd das ohne komplizierte Content Management Software oder einer Wordpress Installation."
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
-icon = "fa-address-book"
-text = "Haupttext"
-title = "Titel eines elements"
+icon = "fa-search"
+text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende Grundgerüst für Ihre Webpräsenz zu finden.\n\n* [https://templated.co/](https://templated.co/ \"https://templated.co/\")\n* [https://html5up.net/](https://html5up.net/ \"https://html5up.net/\")\n* [https://www.os-templates.com/free-website-templates](https://www.os-templates.com/free-website-templates \"https://www.os-templates.com/free-website-templates\")\n* [https://themewagon.com/theme_tag/free/](https://themewagon.com/theme_tag/free/ \"https://themewagon.com/theme_tag/free/\")"
+title = "Finden Sie Ihr Wunschtemplate"
 [[blocks]]
 background_style = "style1"
 headline = "Schnuppern Sie kurz rein"
