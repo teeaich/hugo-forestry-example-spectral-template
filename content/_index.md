@@ -17,9 +17,9 @@ scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
 background_style = "style2"
-headline = "Der einfach Weg zu einer statischen Webseite"
+headline = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen"
 template = "card-container"
-textarea = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen:\n\nWebseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n\nBearbeiten Sie Ihre Webseite wie Sie es wünschen\n\nSorgenfrei und kostenfrei Ihre Webseite betreiben"
+textarea = "Webseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n\nBearbeiten Sie Ihre Webseite wie Sie es wünschen\n\nSorgenfrei und kostenfrei Ihre Webseite betreiben"
 [[blocks.card_elements]]
 icon = "fa-globe"
 text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit kostenfreien und einfachen Tools bearbeiten können."
