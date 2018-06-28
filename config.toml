@@ -4,5 +4,9 @@ theme = "spectral"
 title = "Site"
 [Author]
 name = "Author"
+[[menu.main]]
+name = "Google Verlinkung als Beispiel"
+url = "http://www.google.de"
+weight = 1
 [params]
 logo = "/img/logo_alone.png"
