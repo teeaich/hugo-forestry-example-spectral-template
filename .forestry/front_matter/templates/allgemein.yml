@@ -1,4 +1,8 @@
 ---
 hide_body: true
 is_partial: true
-fields: []
+fields:
+- type: text
+  name: menuname
+  label: Menüname
+  description: Was soll oben rechts als Menüname stehen?
