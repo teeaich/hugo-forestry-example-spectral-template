@@ -51,6 +51,7 @@ template = "offer-container"
 [[blocks.offer_elements]]
 price = "499 EUR"
 template = "offer"
+text = "* Hallo\n* noch"
 textarea = "* Hallo **eintext**"
 title = "Basispaket"
 [blocks.offer_elements.action_button]
