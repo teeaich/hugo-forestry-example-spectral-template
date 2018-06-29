@@ -30,7 +30,7 @@ text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende T
 title = "Finden Sie Ihr Wunschtemplate"
 [[blocks.card_elements]]
 icon = "fa-smile-o"
-text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Generator erzeugt und auf einem Internetserver wie Dateien auf einer Festplatte abgelegt.\n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besucher blitzschnell geladen und brauchen keinerlei Serverupdates um vor Angreifern geschützt zu sein."
+text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Generator erzeugt und auf einem Internetserver wie Dateien auf einer Festplatte abgelegt.\n\nIhre Seiten sind demnach **kostengünstig** zu hosten, sind für Ihre Besucher **blitzschnell** geladen und brauchen keinerlei Serverupdates um vor Angreifern **geschützt** zu sein."
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks.card_elements]]
 icon = "fa-plus-circle"
