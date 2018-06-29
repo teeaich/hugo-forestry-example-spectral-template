@@ -49,10 +49,13 @@ background_style = "style1"
 headline = "Preise"
 template = "offer-container"
 [[blocks.offer_elements]]
-title = "Basispaket"
 price = "499 EUR"
-textarea = "* Hallo **eintext**"
 template = "offer"
+textarea = "* Hallo **eintext**"
+title = "Basispaket"
+[blocks.offer_elements.action_button]
+link = "http://www.google.de"
+text = "Kontaktieren Sie uns"
 [[blocks]]
 background_style = "style1"
 headline = "Wordpress war gestern"
