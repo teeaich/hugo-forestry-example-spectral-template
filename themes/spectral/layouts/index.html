@@ -39,6 +39,7 @@
     {{- if eq .template "infobox" -}}{{ partial "blocks/infobox" (dict "Params" .) }}{{- end -}}
     {{- if eq .template "card-container" -}}{{ partial "blocks/card-container" (dict "Params" .) }}{{- end -}}
     {{- if eq .template "spotlight-container" -}}{{ partial "blocks/spotlight-container" (dict "Params" .) }}{{- end -}}
+    {{- if eq .template "offer-container" -}}{{ partial "blocks/offer-container" (dict "Params" .) }}{{- end -}}
   {{- end -}}
   {{ partial "contentFooter" . }}
 </div>

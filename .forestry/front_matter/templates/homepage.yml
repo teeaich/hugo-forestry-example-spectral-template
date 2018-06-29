@@ -57,5 +57,6 @@ fields:
   - infobox
   - card-container
   - spotlight-container
+  - offer-container
 pages:
 - content/_index.md

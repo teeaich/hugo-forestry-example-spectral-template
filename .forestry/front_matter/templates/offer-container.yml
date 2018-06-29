@@ -1,0 +1,57 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: "Überschrift"
+  name: headline
+  description: Bearbeiten Sie die Überschrift des offer-containers
+- type: select
+  name: background_style
+  config:
+    source:
+      type: simple
+    options:
+    - style1
+    - style2
+    - style3
+    - style4
+    - style5
+    - style6
+  label: Hintergrundstil bzw. Farbe
+  description: Entscheiden Sie über die Art des Hintergrunds
+  default: style1
+- type: field_group_list
+  label: Preiselemente
+  name: offer_elements
+  description: Fügen Sie ein Preiselement hinzu
+  fields:
+  - type: text
+    name: title
+    label: Titel
+    description: Bearbeiten Sie den optionalen Titel
+  - type: text
+    name: price
+    label: Preis
+    description: Bearbeiten Sie den Preis
+  - type: textarea
+    name: text
+    label: Textbereich
+    description: Bearbeiten Sie den Text unter dem Titel
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: field_group
+    name: action_button
+    label: Button
+    description: Optionalen Button hinzufügen
+    fields:
+    - type: text
+      name: text
+      label: Text des Buttons
+      description: Wählen Sie einen Text für den button
+    - type: text
+      name: link
+      label: Verlinkung des Buttons
+      description: Definieren Sie die Zielseiten beim Klick auf den Button

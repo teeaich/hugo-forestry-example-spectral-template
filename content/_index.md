@@ -46,6 +46,15 @@ link = "/admin"
 text = "Ändern Sie diese Webseite"
 [[blocks]]
 background_style = "style1"
+headline = "Preise"
+template = "offer-container"
+[[blocks.offer_elements]]
+title = "Basispaket"
+price = "499 EUR"
+textarea = "* Hallo **eintext**"
+template = "offer"
+[[blocks]]
+background_style = "style1"
 headline = "Wordpress war gestern"
 template = "infobox"
 textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
