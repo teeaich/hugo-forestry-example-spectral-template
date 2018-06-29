@@ -5,6 +5,5 @@ title = "Site"
 [Author]
 name = "Author"
 [params]
-logo = "/img/logo_alone.png"
 menuname = "Menü"
 sitename = "Ihre Seite"
