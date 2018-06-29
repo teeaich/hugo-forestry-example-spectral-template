@@ -10,9 +10,5 @@ fields:
   label: Seitenname
   name: sitename
   description: Bearbeiten Sie den Namen der Seite
-- type: file
-  name: logo
-  label: Logo
-  description: Bearbeiten Sie das Logo
 data_files:
 - config.toml
