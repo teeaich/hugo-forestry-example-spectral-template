@@ -16,7 +16,7 @@ weight = 1
 scroll_element = "one"
 text = "Scrolle nach unten"
 [[blocks]]
-background_style = "style2"
+background_style = "style1"
 headline = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen"
 template = "card-container"
 textarea = "1. Webseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n2. Bearbeiten Sie Ihre Webseite wie Sie es wünschen\n3. Sorgenfrei und kostenfrei Ihre Webseite betreiben"
