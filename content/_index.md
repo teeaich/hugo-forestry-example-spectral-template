@@ -22,7 +22,7 @@ template = "card-container"
 textarea = "1. Webseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n2. Bearbeiten Sie Ihre Webseite wie Sie es wünschen\n3. Sorgenfrei und kostenfrei Ihre Webseite betreiben"
 [[blocks.card_elements]]
 icon = "fa-globe"
-text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit kostenfreien und einfachen Tools bearbeiten können."
+text = "Fertige HTML5 Templates gibt es in großen Umfang **kostenfrei** im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit **kostenfreien und einfachen Tools** bearbeiten können."
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-search"
