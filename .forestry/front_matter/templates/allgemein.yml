@@ -14,3 +14,5 @@ fields:
   name: logo
   label: Logo
   description: Bearbeiten Sie das Logo
+data_files:
+- config.toml
