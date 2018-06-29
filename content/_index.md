@@ -22,7 +22,7 @@ template = "card-container"
 textarea = "1. Webseitentemplate aus  einer unendlich vielen Auswahl aussuchen\n2. Bearbeiten Sie Ihre Webseite wie Sie es wünschen\n3. Sorgenfrei und kostenfrei Ihre Webseite betreiben"
 [[blocks.card_elements]]
 icon = "fa-globe"
-text = "Fertige HTML5 Templates gibt es in großen Umfang kostenfrei im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit kostenfreien und einfachen Tools bearbeiten können."
+text = "Fertige HTML5 Templates gibt es in großen Umfang **kostenfrei** im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihr Wunschtemplate in eine Webseite um und sorgen dafür das Sie diese mit **kostenfreien und einfachen Tools** bearbeiten können."
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-search"
@@ -30,11 +30,11 @@ text = "Hier nur einige wenige Beispiele die Ihnen helfen können das passende T
 title = "Finden Sie Ihr Wunschtemplate"
 [[blocks.card_elements]]
 icon = "fa-smile-o"
-text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Generator erzeugt und auf einem Internetserver wie Dateien auf einer Festplatte abgelegt.\n\nIhre Seiten sind demnach kostengünstig zu hosten, sind für Ihre Besucher blitzschnell geladen und brauchen keinerlei Serverupdates um vor Angreifern geschützt zu sein."
+text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Generator erzeugt und auf einem Internetserver wie Dateien auf einer Festplatte abgelegt.\n\nIhre Seiten sind demnach **kostengünstig** zu hosten, sind für Ihre Besucher **blitzschnell** geladen und brauchen keinerlei Serverupdates um vor Angreifern **geschützt** zu sein."
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks.card_elements]]
 icon = "fa-plus-circle"
-text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
+text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt **viele Möglichkeiten** Ihrer Webseite noch mehr Leben einzuhauen und einen **engeren Kontakt** zu Ihren Kunden zu ermöglichen."
 title = "Ihre Webseite kann noch mehr"
 [[blocks]]
 background_style = "style3"
