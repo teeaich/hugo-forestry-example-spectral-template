@@ -34,7 +34,7 @@ text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Genera
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks.card_elements]]
 icon = "fa-plus-circle"
-text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
+text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt **viele Möglichkeiten** Ihrer Webseite noch mehr Leben einzuhauen und einen **engeren Kontakt** zu Ihren Kunden zu ermöglichen."
 title = "Ihre Webseite kann noch mehr"
 [[blocks]]
 background_style = "style3"
