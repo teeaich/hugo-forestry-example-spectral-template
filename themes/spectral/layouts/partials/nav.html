@@ -1,5 +1,5 @@
 <header id="header" class="alt">
-  <h1><a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></h1>
+  <h1><a href="/">{{ .Site.Title }}</a></h1>
   <nav id="nav">
     <ul>
       <li class="special">
@@ -8,9 +8,7 @@
           <ul>
             {{ $currentPage := .Page }}
             {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
             <li class="{{ if $currentPage.IsMenuCurrent " main" . }} active {{ end }}"><a href="{{ .URL  | relLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
             {{ end }}
           </ul>
         </div>
