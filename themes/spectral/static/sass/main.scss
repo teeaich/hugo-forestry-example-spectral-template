@@ -645,10 +645,35 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
 
+		.major & {
+			list-style: none;
+			text-align: left;
+		}
+
 		li {
 			padding-left: 0.25em;
+			counter-increment: step-counter;
+
+			.major & {
+				line-height: 3em;
+			}
+
+			.major &::before {
+				content: counter(step-counter);
+				margin-right: 30px;
+				color: #00ffcc;
+				border-radius: 50%;
+				border: 1px solid #00ffcc;
+				padding: 4px 13px;
+				font-size: 25px;
+				top: 5px;
+				position: relative;
+
+			}
 		}
 	}
+
+
 
 	ul {
 		list-style: disc;

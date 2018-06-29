@@ -37,7 +37,7 @@ icon = "fa-plus-circle"
 text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt viele Möglichkeiten Ihrer Webseite noch mehr Leben einzuhauen und einen engeren Kontakt zu Ihren Kunden zu ermöglichen."
 title = "Ihre Webseite kann noch mehr"
 [[blocks]]
-background_style = "style1"
+background_style = "style3"
 headline = "Schnuppern Sie kurz rein"
 template = "infobox"
 textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu verändern und einen ersten Eindruck zu gewinnen."
@@ -45,7 +45,7 @@ textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielw
 link = "/admin"
 text = "Ändern Sie diese Webseite"
 [[blocks]]
-background_style = "style2"
+background_style = "style1"
 headline = "Wordpress war gestern"
 template = "infobox"
 textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
