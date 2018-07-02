@@ -49,11 +49,20 @@ background_style = "style1"
 headline = "Preise"
 template = "offer-container"
 [[blocks.offer_elements]]
-price = "499 EUR"
+price = "499 €"
 template = "offer"
 text = "* Hallo\n* noch"
 textarea = "* Hallo **eintext**"
 title = "Basispaket"
+[blocks.offer_elements.action_button]
+link = "http://www.google.de"
+text = "Kontaktieren Sie uns"
+[[blocks.offer_elements]]
+price = " "
+template = "offer"
+text = "* Hallo\n* noch"
+textarea = "* Hallo **eintext**"
+title = "Individualpaket"
 [blocks.offer_elements.action_button]
 link = "http://www.google.de"
 text = "Kontaktieren Sie uns"

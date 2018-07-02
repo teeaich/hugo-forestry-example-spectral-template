@@ -1,18 +1,30 @@
 <section id="four" class="wrapper special {{ .Params.background_style }}">
-    <div class="inner">
-        {{ if (isset .Params "headline")}}
-        <header class="major">
-            <h2>{{ .Params.headline }}</h2>
-        </header>
-        {{ end }}
-        {{ range .Params.offer_elements }}
+  <div class="inner">
+    {{ if (isset .Params "headline")}}
+    <header class="major">
+      <h2>{{ .Params.headline }}</h2>
+    </header>
+    {{ end }}
+    <div class="prices">
+      {{ range .Params.offer_elements }}
+      <div class="prices__item">
         <h2>{{ .title }}</h2>
 
         <span>{{ .price }}</span>
         <p>{{ .textarea | markdownify }}</p>
 
-
+        {{ with .action_button }}
+        <ul class="actions special">
+          <li>
+            <a href="{{ .link }}" class="button primary">{{ .text }}</a>
+          </li>
+        </ul>
         {{ end }}
+      </div>
+      {{ end }}
+
 
     </div>
+
+  </div>
 </section>
