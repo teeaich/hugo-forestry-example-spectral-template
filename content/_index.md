@@ -14,7 +14,7 @@ parent = ""
 weight = 1
 [show_scroll_button]
 scroll_element = "one"
-text = "Scrolle nach unten"
+text = "Scrollen Sie nach unten"
 [[blocks]]
 background_style = "style1"
 headline = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen"
