@@ -1,9 +1,10 @@
 ---
+label: Offer container
 hide_body: true
 is_partial: true
 fields:
 - type: text
-  label: "Überschrift"
+  label: Überschrift
   name: headline
   description: Bearbeiten Sie die Überschrift des offer-containers
 - type: select

@@ -1,7 +1,7 @@
 +++
 headline = "Ihre Website"
 image = "/uploads/2018/06/27/rsz_wireframing-and-designing-website-layout-picjumbo-com.jpg"
-textarea = "Mit minimalem Aufwand jedes Website Template in Ihre Webpräsenz verwandeln"
+textarea = "Mit minimalem Aufwand jede Webseitenvorlage in Ihre Webpräsenz verwandeln"
 title = "Homepage"
 type = "page"
 [action_button]
