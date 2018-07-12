@@ -9,7 +9,6 @@ link = ""
 text = ""
 [menu.main]
 identifier = "home"
-name = "Homepage"
 parent = ""
 weight = 1
 [show_scroll_button]
@@ -51,16 +50,16 @@ template = "offer-container"
 [[blocks.offer_elements]]
 price = "499 €"
 template = "offer"
-text = "* Hallo\n* noch"
+text = "* Umwandung Ihrer **gewünschten** Webseitenvorlage\n* inkludiert sind bis zu **8** Stil- und Listenelemente\n* bearbeiten Sie die fertige Vorlage nach **Ihren** Wünschen\n* Umstellung Ihrer **Domain** auf die neue Webseite"
 textarea = "* Hallo **eintext**"
 title = "Basispaket"
 [blocks.offer_elements.action_button]
 link = "http://www.google.de"
 text = "Kontaktieren Sie uns"
 [[blocks.offer_elements]]
-price = " "
+price = " individuell"
 template = "offer"
-text = "* Hallo\n* noch"
+text = "* beinhaltet die Leistungen aus dem **Basispaket**\n* Anpassung der gewählten Vorlage an Ihr **Unternehmen** \n* erweitern Sie Ihre Seite mit einem **Kontaktformular**\n* **weitere** Stil- und Listenelemente\n* fragen Sie uns nach noch **viel mehr** (Livechat, Integration mit Ihren Prozessen, etc)"
 textarea = "* Hallo **eintext**"
 title = "Individualpaket"
 [blocks.offer_elements.action_button]
