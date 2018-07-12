@@ -1,5 +1,5 @@
 +++
-headline = "Ihre Website"
+headline = "Ihre neue Website"
 image = "/uploads/2018/06/27/rsz_wireframing-and-designing-website-layout-picjumbo-com.jpg"
 textarea = "Mit minimalem Aufwand jede Webseitenvorlage in Ihre Webpräsenz verwandeln"
 title = "Homepage"
@@ -17,12 +17,12 @@ scroll_element = "one"
 text = "Scrollen Sie nach unten"
 [[blocks]]
 background_style = "style1"
-headline = "Der neue Weg Ihrer Webpräsenz einen neuen Anstrich zu verpassen"
+headline = "Der neue Weg zur Ihrer neuen Webpräsenz kann so einfach sein"
 template = "card-container"
-textarea = "1. Webseitenvorlage aus  einer unendlich vielen Auswahl aussuchen\n2. Bearbeiten Sie Ihre Webseite wie Sie es wünschen\n3. Sorgenfrei und kostenfrei Ihre Webseite betreiben"
+textarea = "1. Wählen sie eine von unendlich vielen kostenfreien Webseitenvorlagen im Internet\n2. Wir sorgen dafür das Sie diese kinderleicht mit Ihren Inhalten pflegen können.\n3. Sorgenfrei und kostenfrei Ihre Webseite betreiben"
 [[blocks.card_elements]]
 icon = "fa-globe"
-text = "Fertige HTML5 Templates gibt es in großen Umfang **kostenfrei** im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit für die eigene Homepage.\n\nWir wandeln Ihre Wunschvorlage in eine Webseite um und sorgen dafür das Sie diese mit **kostenfreien und einfachen Tools** bearbeiten können."
+text = "Fertige HTML5 Templates gibt es in großen Umfang **kostenfrei** im Internet. Die meisten davon sind jedoch nur für Experten direkt einsatzbereit.\n\nWir wandeln Ihre Wunschvorlage in eine bearbeitbare Webseite um und sorgen dafür das Sie diese mit **kostenfreien und einfachen Tools** auch in Zukunft pflegen können."
 title = "Riesige Auswahl an fertigen Templates"
 [[blocks.card_elements]]
 icon = "fa-search"
@@ -34,13 +34,13 @@ text = "Statisch gehostete Webseiten werden nach dem Bearbeiten von einem Genera
 title = "Webseite statisch hosten = sicher, schnell und kostengünstig"
 [[blocks.card_elements]]
 icon = "fa-plus-circle"
-text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt **viele Möglichkeiten** Ihrer Webseite noch mehr Leben einzuhauen und einen **engeren Kontakt** zu Ihren Kunden zu ermöglichen."
+text = "Ob Kontaktformular, Anpassungen im Design an Ihr Unternehmen oder einem Livechat für Ihren Support.\n\nEs gibt **viele Möglichkeiten** Ihrer Webseite noch mehr Leben einzuhauchen und einen **engeren Kontakt** zu Ihren Kunden zu ermöglichen."
 title = "Ihre Webseite kann noch mehr"
 [[blocks]]
 background_style = "style3"
 headline = "Schnuppern Sie kurz rein"
 template = "infobox"
-textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu verändern und einen ersten Eindruck zu gewinnen."
+textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu bearbeiten und einen ersten Eindruck zu gewinnen."
 [blocks.action_button]
 link = "/admin"
 text = "Bearbeiten Sie diese Webseite"
@@ -70,7 +70,7 @@ text = "Kontaktieren Sie uns"
 background_style = "style2"
 headline = "Wordpress war gestern"
 template = "infobox"
-textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
+textarea = "Nutzen Sie die neuesten Werkzeuge um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben. Wir nutzen hierfür folgende etablierte Technologien.  "
 [[blocks]]
 background_style = "style5"
 template = "spotlight-container"
@@ -80,7 +80,7 @@ text = "Nutzen Sie die Erfahrung des großen Enterprise Softwareanbieters Atlass
 title = "Ihre Website - immer verfügbar"
 [[blocks.spotlight_elements]]
 image = "/uploads/2018/06/26/forestry.png"
-text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. Der etablierte Anbieter forestry.io unterstützt Sie in Zusammenarbeit mit mir zu entscheiden wo und wie Ihre Website nach Ihren Wünschen bearbeitbar wird.\n\nUnd das kostenfrei für bis zu 3 Bearbeiter Ihrer Webseite.\n\n[Forestry.io](https://forestry.io/pricing/)"
+text = "Nutzen Sie die neue Möglichkeit eine Website statisch zu generieren. Der etablierte Anbieter forestry.io unterstützt Sie in Zusammenarbeit mit uns zu entscheiden wo und wie Ihre Website nach Ihren Wünschen bearbeitbar wird.\n\nUnd das kostenfrei für bis zu 3 Bearbeiter Ihrer Webseite.\n\n[Forestry.io](https://forestry.io/pricing/)"
 title = "Ihre Website - jederzeit einfach pflegbar"
 [[blocks.spotlight_elements]]
 image = "/uploads/2018/06/26/netlify.png"
