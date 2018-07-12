@@ -67,12 +67,12 @@ title = "Individualpaket"
 link = "http://www.google.de"
 text = "Kontaktieren Sie uns"
 [[blocks]]
-background_style = "style1"
+background_style = "style2"
 headline = "Wordpress war gestern"
 template = "infobox"
 textarea = "Nutzen Sie die neuesten und erfolgreichsten Technologien um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben  "
 [[blocks]]
-background_style = "style3"
+background_style = "style5"
 template = "spotlight-container"
 [[blocks.spotlight_elements]]
 image = "/uploads/2018/06/26/bitbucket-1"

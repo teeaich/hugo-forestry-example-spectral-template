@@ -661,9 +661,9 @@ ol {
     .major &::before {
       content: counter(step-counter);
       margin-right: 30px;
-      color: #00ffcc;
+      color: #6A5E72;
       border-radius: 50%;
-      border: 1px solid #00ffcc;
+      border: 1px solid #6A5E72;
       padding: 4px 13px;
       font-size: 25px;
       top: 5px;
@@ -1641,6 +1641,7 @@ body.is-menu-visible {
     @include vendor('transform', 'translateY(0)');
     border: none;
     bottom: 0;
+    line-height: 1.4em;
     color: inherit;
     font-size: 0.8em;
     height: 8.5em;
