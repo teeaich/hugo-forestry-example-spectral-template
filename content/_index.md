@@ -54,7 +54,7 @@ text = "* Umwandung Ihrer **gewünschten** Webseitenvorlage\n* inkludiert sind b
 textarea = "* Hallo **eintext**"
 title = "Basispaket"
 [blocks.offer_elements.action_button]
-link = "http://www.google.de"
+link = "mailto:kontakt@yaaweb.de?subject=Ihre%20Frage"
 text = "Kontaktieren Sie uns"
 [[blocks.offer_elements]]
 price = " individuell"
