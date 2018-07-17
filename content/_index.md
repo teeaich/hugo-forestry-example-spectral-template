@@ -39,7 +39,7 @@ title = "Ihre Webseite kann noch mehr"
 background_style = "style3"
 headline = "Schnuppern Sie kurz rein"
 template = "infobox"
-textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu bearbeiten und einen ersten Eindruck zu gewinnen.\n\nMelden Sie sich an mit folgenden Benutzer:\n\nE-Mail: elektro-alexander@yaaweb.de\n\nPasswort: testseite01"
+textarea = "Die Webseite die Sie jetzt gerade sehen habe ich für Sie als Spielwiese und Demonstration angelegt. Klicken Sie auf den Button um diese Seite zu bearbeiten und einen ersten Eindruck zu gewinnen.\n\nMelden Sie sich mit folgenden Benutzer an\n\nE-Mail: elektro-alexander@yaaweb.de\n\nPasswort: testseite01"
 [blocks.action_button]
 link = "/admin"
 text = "Bearbeiten Sie diese Webseite"
