@@ -63,7 +63,7 @@ text = "* beinhaltet die Leistungen aus dem **Basispaket**\n* Anpassung der gew√
 textarea = "* Hallo **eintext**"
 title = "Individualpaket"
 [blocks.offer_elements.action_button]
-link = "http://www.google.de"
+link = "mailto:kontakt@yaaweb.de?subject=Ihre%20Frage"
 text = "Kontaktieren Sie uns"
 [[blocks]]
 background_style = "style2"
