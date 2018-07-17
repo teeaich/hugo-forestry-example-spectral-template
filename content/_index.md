@@ -69,7 +69,7 @@ text = "Kontaktieren Sie uns"
 background_style = "style2"
 headline = "Wordpress war gestern"
 template = "infobox"
-textarea = "Nutzen Sie die neuesten Werkzeuge um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben. Wir nutzen hierfür folgende etablierte Technologien.  "
+textarea = "Nutzen Sie die neuesten Werkzeuge um schnell und kostengünstig Ihre Website zu gestalten und zu betreiben. Wir nutzen hierfür folgende etablierte Technologien.\n\nMelden Sie sich mit folgenden Benutzer an\n\nE-Mail: elektro-alexander@yaaweb.de\n\nPasswort: testseite01"
 [[blocks]]
 background_style = "style5"
 template = "spotlight-container"
